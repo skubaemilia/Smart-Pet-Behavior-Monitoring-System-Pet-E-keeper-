@@ -27,3 +27,21 @@
 
 ---
 *Note: This repository contains technical documentation and project overview. The full source code is private due to contest regulations and academic policies.*
+
+## 📱 Mobile Application Interface
+
+The Android application serves as the central hub for the Pet E-keeper system. It features a native UI built with **Java** in Android Studio, integrated with **Firebase Authentication** for secure access and **Firebase Realtime Database** for instant pet status updates.
+
+<p align="center">
+  <img src="images/Zrzut%20ekranu%202026-04-22%20172127.png" width="22%" style="margin: 5px;" alt="App Interface 1" />
+  <img src="images/Zrzut%20ekranu%202026-04-22%20172152.png" width="10%%" style="margin: 5px;" alt="App Interface 2" />
+  <img src="images/Zrzut%20ekranu%202026-04-22%20172203.png" width="22%" style="margin: 5px;" alt="App Interface 3" />
+  <img src="images/Zrzut%20ekranu%202026-04-22%20172222.png" width="22%" style="margin: 5px;" alt="App Interface 4" />
+</p>
+<p align="center">
+  <img src="images/Zrzut%20ekranu%202026-04-22%20172232.png" width="22%" style="margin: 5px;" alt="App Interface 5" />
+  <img src="images/Zrzut%20ekranu%202026-04-22%20172302.png" width="22%" style="margin: 5px;" alt="App Interface 6" />
+  <img src="images/Zrzut%20ekranu%202026-04-22%20172308.png" width="22%" style="margin: 5px;" alt="App Interface 7" />
+</p>
+
+*Above: Comprehensive views of the mobile interface, including user authorization flow (Log In & Register) and notification logs.*
